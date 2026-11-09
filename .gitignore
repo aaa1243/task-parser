@@ -1,0 +1,4 @@
+*.exe
+testout/
+TaskParser/
+*.csv
